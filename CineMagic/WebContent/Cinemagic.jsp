@@ -50,7 +50,7 @@ if (session.getAttribute("username")==null) {
 	</video>
 </div>
 <footer>
-	Copyright 2017 © CineMagic Entertainment Pvt. Ltd. All Rights Reseed .
+	Copyright 2017 © CineMagic Entertainment Pvt. Ltd. All Rights Reeed .
 </footer>
 </div>
 </body>
